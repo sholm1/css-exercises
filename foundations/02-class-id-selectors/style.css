@@ -1,0 +1,15 @@
+p {
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.blue {
+    color: blue;
+    font-size: 36px;
+}
+p.third {
+    font-size: 24px;
+}
+div.fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+}
